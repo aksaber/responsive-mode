@@ -1,0 +1,188 @@
+.mask_login{
+	position:relative;
+	top:10%;
+	left:10%;
+}
+
+.mask_reg{
+	position:relative;
+	top:10%;
+	left:10%;
+}
+
+.cookies{
+	position:absolute;
+	top:0%;
+	left:85%;
+}
+
+/*----------模态框----------*/
+
+.header{
+	width:85%;
+}
+
+.logo{
+	margin-left:0px;
+	margin-top:-5px;
+}
+
+.logo img{
+	width:40%;
+}
+
+.login ul{
+	position:absolute;
+	left:50%;
+	top:0px;
+}
+
+.login li{
+	width:50px;
+	height:80px;
+}
+
+/*-------头部--------*/
+
+.content{
+	width:95%;
+	height:160px;
+}
+
+.menu{
+	display:none;
+}
+
+.con_img img{
+	width:100%;
+	height:auto;
+}
+
+.arrow{
+	display:none;
+}
+
+.dot{
+	left:75%;
+	top:75%;
+}
+
+.dot li{
+	width:5px;
+	height:5px;
+	border:1px solid rgba(0,0,0,.5);
+	background:rgba(0,0,0,.5);
+}
+
+.content_after{
+    display:none;
+}
+
+/*--------①部分--------*/
+
+.main{
+	width:95%;
+	height:800px;
+	box-shadow:none;
+}
+
+.img_1{
+	clear:both;
+	width:100%;
+	
+}
+
+.img_1 img{
+	width:100%;
+}
+
+.outimg{
+	width:46%;
+	height:12%;
+	margin-top:10%;
+	margin-right:3%;
+	margin-left:1%;
+	float:left;
+	
+}
+
+.img_2 img{
+	width:100%;
+	height:100%;
+}
+
+.img_p{
+	line-height:200%;
+}
+
+/*--------②部分--------*/
+
+.main_2{
+	width:95%;
+	height:980px;
+}
+
+.main_2_left{
+	width:100%;
+	height:200px;
+}
+
+.main_2_left img{
+	width:30%;
+	margin-top:-30px;
+}
+
+.main_2_p{
+	padding-left:10px;
+	padding-top:10px;
+	font-size:10px;
+}
+
+.main_2_right{
+	width:100%;
+}
+
+.right_con{
+	width:40%;
+	height:20%;
+	margin-top:10px;
+	margin-left:5%;
+}
+
+.main_2_right img{
+	width:60%;
+	height:35%;
+}
+
+/*--------③部分--------*/
+
+.acc{
+	display:none;
+}
+
+/*--------手风琴部分--------*/
+
+.footer_ul{
+	display:none;
+}
+
+.footer_hr{
+	width:80%;
+}
+
+.footer_ps{
+	width:60%;
+}
+
+.two_code{
+	width:95%;
+	margin-bottom:-50px;
+}
+
+/*-------页脚部分--------*/
+
+.anchor{
+	display:none;
+}
+
+/*--------锚点部分--------*/
